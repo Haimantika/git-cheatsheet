@@ -4,7 +4,7 @@ GitHub is a Git repository hosting service, but it adds many of its own features
 
 GitHub provides desktop clients that include a graphical user interface for the most common repository actions and an automatically updating command line edition of Git for advanced scenarios.
 
-**GitHub for Windows: **
+**GitHub for Windows:**
  https://windows.github.com
  
 **GitHub for Mac :**
